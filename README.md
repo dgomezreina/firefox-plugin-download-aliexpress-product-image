@@ -1,0 +1,1 @@
+# firefox-plugin-download-aliexpress-product-image
